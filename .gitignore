@@ -1,0 +1,7 @@
+﻿.idea
+my_first_public_portfolio
+venv
+__pycache__
+geckodriver.exe
+geckodriver.log
+set

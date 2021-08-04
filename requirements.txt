@@ -1,0 +1,4 @@
+terminal
+pip install selenium
+
+get geckodriver
