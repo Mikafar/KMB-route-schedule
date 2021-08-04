@@ -1,4 +1,4 @@
-# my_first_pycharm project
+# Scape_KMB project
 
 ```javascript
 function fancyAlert(arg) {
