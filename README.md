@@ -1,9 +1,7 @@
-# Scape_KMB project
+# Scape KMB project
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+1. route = E36
+1. Stop = YOHO MALL I
+1. next bus ___ min scheduled
+   1. Item 3a
+   1. Item 3b
